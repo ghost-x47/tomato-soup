@@ -1,0 +1,4 @@
+*.exe
+*.sublime-workspace
+config.ini
+database.txt
